@@ -1,0 +1,32 @@
+{
+  "name": "dsh-plugin-subscriptions",
+  "version": "0.9.10",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/V1ki/dsh-plugin-subscriptions.git",
+    "type": "git"
+  },
+  "dist": {
+    "shasum": "290bf0303c6fc48fd82d354922a29b6bca336315",
+    "tarball": "https://registry.npmjs.org/dsh-plugin-subscriptions/-/dsh-plugin-subscriptions-0.9.10.tgz",
+    "fileCount": 141,
+    "integrity": "sha512-QiFoVFtCL9CawI5p8lKM2lfH2Lr95nMp6xyjBaEUpZxSae9MehGSaogX7G41rf965vVjVn0EQqJ0nPoFP1LA8Q==",
+    "signatures": [
+      {
+        "sig": "MEUCIQCVi94U2+eWcJugDaB4xdn8Dc0affrXm8lcb2ybXzE79AIgW6VOY8gwIsgRwx1EQw9bKCwNBSh/DKaNgaEO5UCyKms=",
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+      },
+      {
+        "sig": "MEQCIDQRD0VUq1C2XHSJPIQqxmiBJ3y2Hvz0BeFnvza9oWx7AiBVYAeWo0rTIZ/FkmY7Mf7A132+0+WlOKVmCGakMCjFlg==",
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+      }
+    ],
+    "attestations": {
+      "url": "https://registry.npmjs.org/-/npm/v1/attestations/dsh-plugin-subscriptions@0.9.10",
+      "provenance": {
+        "predicateType": "https://slsa.dev/provenance/v1"
+      }
+    },
+    "unpackedSize": 2059027
+  }
+}
